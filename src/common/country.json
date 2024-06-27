@@ -1,0 +1,14 @@
+{
+  "Test": [
+    { "country": "cn", "value": "Host caído" ,"color": "red"},
+    { "country": "in", "value": "Consumo de recursos" ,"color": "yellow"},
+    { "country": "us", "value": "Host caído" ,"color": "red"},
+    { "country": "id", "value": "Host caído" ,"color": "red"},
+    { "country": "pk", "value":  "Consumo de recursos" ,"color": "yellow"},
+    { "country": "br", "value":  "Consumo de recursos" ,"color": "yellow"},
+    { "country": "ng", "value":  "Consumo de recursos" ,"color": "yellow"},
+    { "country": "bd", "value": "Host caído" ,"color": "red"},
+    { "country": "ru", "value": "Host caído" ,"color": "red"},
+    { "country": "mx", "value": "Host caído" ,"color": "red"}
+  ]
+}
